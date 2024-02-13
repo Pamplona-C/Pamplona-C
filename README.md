@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Pamplona</h1>
 <h3 align="center">Developer under construction</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif"
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/tenor.gif"
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pamplona-c&label=Profile%20views&color=0e75b6&style=flat" alt="pamplona-c" /> </p>
 
