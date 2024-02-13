@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Pamplona</h1>
-<h3 align="center">Frontend Developer under construction</h3>
+<h3 align="center">Developer under construction</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXo5Z2NvYWR5eHdhYjk0cnV1eW9odXRnajFzeWZ1OTVzeXcxd2ZsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamplona-c&label=Profile%20views&color=0e75b6&style=flat" alt="pamplona-c" /> </p>
