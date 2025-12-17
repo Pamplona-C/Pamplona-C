@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamplona-c&show_icons=true&locale=en&layout=compact" alt="pamplona-c" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamplona-c&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
